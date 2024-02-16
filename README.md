@@ -2,10 +2,10 @@
 GROUP NAME: "Group for fun"
 
 GROUP MEMBERS:
- Ma. Angela Sanzchez
- Collene Jane Loto Mangcoy
- John Mark Zoleta
- Jerome Lingon
+ - Ma. Angela Sanzchez
+ - Collene Jane Loto Mangcoy
+ - John Mark Zoleta
+ - Jerome Lingon
 
 
 **Overview:**
