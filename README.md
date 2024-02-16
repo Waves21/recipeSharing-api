@@ -1,4 +1,13 @@
 # recipeSharing-api
+GROUP NAME: "Group for fun"
+
+GROUP MEMBERS:
+Ma. Angela Sanzchez
+Collene Jane Loto Mangcoy
+John Mark Zoleta
+Jerome Lingon
+
+
 **Overview:**
 
 The provided code is a simple RESTful API built using Node.js and Express.js for managing recipes. It allows users to perform CRUD (Create, Read, Update, Delete) operations on recipes, as well as retrieve specific details of a recipe by its ID. The API accepts JSON data for creating and updating recipes and responds with JSON data containing recipe information.
