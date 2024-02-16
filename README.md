@@ -2,7 +2,7 @@
 GROUP NAME: "Group for fun"
 
 GROUP MEMBERS:
- - Ma. Angela Sanzchez
+ - Ma. Angela Sanchez
  - Collene Jane Loto Mangcoy
  - John Mark Zoleta
  - Jerome Lingon
